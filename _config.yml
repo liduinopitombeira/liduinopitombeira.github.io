@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "/images/profile.png"
   name             : "Liduino Pitombeira"
   bio              : "Professor de Composição e Orquestração da Escola de Música da Universidade Federal do Rio de Janeiro (UFRJ)"
   location         : "Rio de Janeiro"
