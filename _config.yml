@@ -25,22 +25,23 @@ author:
   avatar           : "profile.png"
   name             : "Liduino Pitombeira"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Professor de Composição e Orquestração da Escola de Música da Universidade Federal do Rio de Janeiro (UFRJ)"
   location         : "Rio de Janeiro"
-  employer         : "Universidade Federal do Rio de Janeiro"
+  employer         : "UFRJ"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "pitombeira@musica.ufrj.br" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=dx8BjlQAAAAJ&hl=en"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-1141-655X"
   semantic         : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
+  academia         : "https://ufrj.academia.edu/LiduinoPitombeira"  
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
