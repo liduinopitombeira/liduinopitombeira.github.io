@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Liduino Pitombeira - produção acadêmica"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Liduino Pitombeira (Brasil, 1962) é professor de composição da Escola de Música da Universidade Federal do Rio de Janeiro (UFRJ). Suas obras têm sido executadas pelo Quinteto de Sopros da Filarmônica de Berlim, Louisiana Sinfonietta, Red Stick Saxophone Quartet, New York University New Music Trio, Orquestra Sinfônica do Espírito Santo, Poznan Philharmonic Orchestra (Polônia), Duo Barrenechea, The Alexander-Soares Duo, Orquestra Sinfônica de Ribeirão Preto, Orquestra Sinfônica da Universidade de São Paulo, The Chicago Philharmonic e Orquestra Sinfônica do Estado de São Paulo (OSESP). Tem recebido diversas premiações em concursos de composição no Brasil e nos Estados Unidos, incluindo o 1º prêmio no Concurso Camargo Guarnieri de 1998 e o 1º prêmio no concurso “Sinfonia dos 500 Anos”. Recebeu também o prêmio 2003 MTNA-Shepherd Distinguished Composer of the Year Award por seu trio com piano “Brazilian Landscapes No.1”. Mais três obras de sua série Brazilian Landscapes (Nº 2, Nº 6 e Nº 9) foram premiadas nos Estados Unidos. Pitombeira recebeu seu PhD em composição pela Louisiana State University (EUA), onde estudou com Dinos Constantinides. Tem publicado diversos artigos científicos sobre composição e teoria e desenvolvido pesquisa como membro do grupo MusMat da UFRJ. Suas peças são publicadas pela Peters, Bella Musica, Criadores do Brasil (OSESP), Conners, Alry, RioArte e Irmãos Vitale. Gravações de suas obras estão disponíveis nos selos Magni, Summit, Centaur, Antes, Filarmonika, Blue Griffin e Bis. Pitombeira foi premiado em 2019 com a Medalha Villa-Lobos, concedida pela Academia Brasileira de Música, e homenageado pela vida e obra no VII Festival de Música Contemporânea Brasileira. É membro da Academia Brasileira de Música, cadeira Nº 28.
 
 A data-driven personal website
 ======
