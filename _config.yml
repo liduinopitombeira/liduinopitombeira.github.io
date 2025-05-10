@@ -33,19 +33,14 @@ author:
 
   # Academic websites
   academia         : "https://ufrj.academia.edu/LiduinoPitombeira" 
-  
   googlescholar    : "https://scholar.google.com/citations?user=dx8BjlQAAAAJ&hl=en"
-  
   orcid            : "https://orcid.org/0000-0002-1141-655X"
-  
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Liduino-Pitombeira"
-  
-  
+   
 
   # Repositories and software development
 
-  github           : "github.com/liduinopitombeira"
+  github           : "liduinopitombeira"
      
 
   # Social media
