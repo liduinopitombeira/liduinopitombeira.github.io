@@ -24,7 +24,6 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Liduino Pitombeira"
-  
   bio              : "Professor de Composição e Orquestração da Escola de Música da Universidade Federal do Rio de Janeiro (UFRJ)"
   location         : "Rio de Janeiro"
   employer         : "UFRJ"
@@ -44,19 +43,13 @@ author:
      
 
   # Social media
-  
+  youtube          : "@LiduinoPitombeiraMusic"
   facebook         : "https://www.facebook.com/liduino.pitombeira"
-  
-  
   instagram        : "liduino.pitombeira"
-  
   linkedin         : "liduino-pitombeira-289a3a10/?originalSubdomain=br"
- 
   soundcloud       : "liduino-pitombeira"
- 
   twitter X        : "@LiduinoP"
   
-  youtube          : "@LiduinoPitombeiraMusic"
   
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
