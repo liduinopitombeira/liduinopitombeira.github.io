@@ -44,39 +44,25 @@ author:
   
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
+
   github           : "github.com/liduinopitombeira"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+     
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  
   facebook         : "https://www.facebook.com/liduino.pitombeira"
-  flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
+  
+  
   instagram        : "liduino.pitombeira"
-  lastfm           : # Username
+  
   linkedin         : "https://www.linkedin.com/in/liduino-pitombeira-289a3a10/?originalSubdomain=br"
-  mastodon         : # URL
-  medium           : # URL
-  pinterest        : # Username
-  soundcloud       : # Username
-  steam            : # Username
-  telegram         : # URL
-  tumblr           : # Username
-  twitter          : # Username for X / Twitter
-  vine             : # Username
-  weibo            : # Username
-  wikipedia        : # Username
-  xing             : # Username
+ 
+  soundcloud       : "https://soundcloud.com/liduino-pitombeira"
+ 
+  twitter X        : "@LiduinoP"
+  
   youtube          : "https://www.youtube.com/@LiduinoPitombeiraMusic"
-  zhihu            : # Username
-
+  
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   books:
