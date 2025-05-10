@@ -20,3 +20,7 @@ Neste campo, encontram-se as publicações (artigos, livros, capítulos de livro
 Extensão
 ======
 Neste campo, encontram-se os projetos de extensão concluídos e ativos.
+
+Produção artística
+======
+Neste campo, encontram-se os projetos artísticos e a produção decorrente (obras musicais).
