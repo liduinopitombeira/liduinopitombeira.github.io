@@ -27,7 +27,8 @@ author:
   bio              : "Professor de Composição e Orquestração da Escola de Música da Universidade Federal do Rio de Janeiro (UFRJ)"
   location         : "Rio de Janeiro"
   employer         : "UFRJ"
-  uri              : "http://ppgm.musica.ufrj.br"
+  PPGM             : "http://ppgm.musica.ufrj.br"
+  uri              : "http://pitombeira.com"
   email            : "pitombeira@musica.ufrj.br" 
 
   # Academic websites
