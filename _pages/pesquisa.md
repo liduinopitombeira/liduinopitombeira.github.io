@@ -4,4 +4,4 @@ title: "Pesquisa"
 permalink: /pesquisa/
 ---
 
-Aqui vai o conteúdo da seção de Pesquisa.
+Projeto de Pesquisa Planejamento Composicional
