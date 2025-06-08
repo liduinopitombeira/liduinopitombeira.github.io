@@ -5,17 +5,21 @@ permalink: /pesquisa/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">
-    Meus artigos solo ou em parceria com outros pesquisadores e orientandos podem ser encontrados no meu <a href="{{site.author.uri}}">site pessoal</a>, 
-    no meu <a href="{{site.author.googlescholar}}">Google Scholar profile</a>, ou no meu <a href="{{site.author.academia}}">Academia</a>.
-  </div>
+{<div class="wordwrap">
+  Meus artigos solo ou em parceria podem ser encontrados no
+  {% if site.author.uri %}<a href="{{site.author.uri}}">site pessoal</a>{% endif %}{% if site.author.uri and site.author.googlescholar %}, {% endif %}
+  {% if site.author.googlescholar %}<a href="{{site.author.googlescholar}}">Google Scholar</a>{% endif %}{% if site.author.academia and (site.author.uri or site.author.googlescholar) %}, {% endif %}
+  {% if site.author.academia %}<a href="{{site.author.academia}}">Academia.edu</a>{% endif %}.
+</div>
 
-  <div class="wordwrap">
-    My single-authored or co-authored papers can be found on my <a href="{{site.author.uri}}">personal website</a>,
-    my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>, or my <a href="{{site.author.academia}}">Academia.edu page</a>.
-  </div>
-{% endif %}
+<!-- Linha separadora + versão em inglês -->
+<hr style="margin: 1em 0; border: 0; border-top: 1px solid #e0e0e0;"> <!-- Linha cinza clara -->
+<div class="wordwrap">
+  <small><em>My papers can be found on
+  {% if site.author.uri %}<a href="{{site.author.uri}}">personal website</a>{% endif %}{% if site.author.uri and site.author.googlescholar %}, {% endif %}
+  {% if site.author.googlescholar %}<a href="{{site.author.googlescholar}}">Google Scholar</a>{% endif %}{% if site.author.academia and (site.author.uri or site.author.googlescholar) %}, {% endif %}
+  {% if site.author.academia %}<a href="{{site.author.academia}}">Academia.edu</a>{% endif %}.</em></small>
+</div>
 
 {% include base_path %}
 
