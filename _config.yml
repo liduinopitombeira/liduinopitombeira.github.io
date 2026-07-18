@@ -7,12 +7,12 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "pt-BR"
 site_theme               : "default"
 title                    : "Liduino Pitombeira / Composição e Teoria Musicais"
 title_separator          : "-"
 name                     : &name "Liduino Pitombeira"
-description              : &description "personal description"
+description              : &description "Composição, ensino e pesquisa em música e matemática"
 url                      : https://liduinopitombeira.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/liduinopitombeira/liduinopitombeira.github.io"
@@ -28,8 +28,8 @@ author:
   location         : "Rio de Janeiro"
   employer         : "UFRJ"
   PPGM             : "http://ppgm.musica.ufrj.br"
-  uri              : "http://pitombeira.com"
-  email            : "pitombeira@musica.ufrj.br" 
+  uri              : "https://pitombeira.com"
+  email            : "" 
 
   # Academic websites
   academia         : "https://ufrj.academia.edu/LiduinoPitombeira" 
@@ -45,11 +45,11 @@ author:
 
   # Social media
   youtube          : "LiduinoPitombeiraMusic"
-  facebook         : "https://www.facebook.com/liduino.pitombeira"
+  facebook         : "liduino.pitombeira"
   instagram        : "liduino.pitombeira"
   linkedin         : "liduino-pitombeira-289a3a10/?originalSubdomain=br"
   soundcloud       : "liduino-pitombeira"
-  twitter          : "@LiduinoP"
+  twitter          : "LiduinoP"
   
   
 # Publication Category - The following the list of publication categories and their headings
