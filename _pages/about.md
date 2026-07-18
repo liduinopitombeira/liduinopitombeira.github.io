@@ -1,26 +1,32 @@
 ---
 permalink: /
-title: "Liduino Pitombeira - ensino, pesquisa e extensão"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+title: "Liduino Pitombeira"
+layout: default
+author_profile: false
+classes: editorial-home
 ---
+<section class="ed-hero">
+  <div class="ed-hero-copy">
+    <p class="ed-eyebrow">Música <i></i> Composição <i></i> Matemática</p>
+    <h1>Liduino<br>Pitombeira</h1>
+    <h2>Compositor, professor e pesquisador</h2>
+    <p class="ed-lead">Investigações entre criação musical, pensamento sistêmico e estruturas matemáticas.</p>
+    <div class="ed-actions"><a class="ed-button primary" href="/pesquisa/">Conheça as pesquisas <span>↗</span></a><a class="ed-button secondary" href="/publicacoes/">Ver publicações <span>↗</span></a></div>
+  </div>
+  <div class="ed-art" aria-hidden="true"><span class="orbit a"></span><span class="orbit b"></span><span class="orbit c"></span><span class="curve one"></span><span class="curve two"></span><i class="dot one"></i><i class="dot two"></i><i class="dot three"></i></div>
+  <div class="ed-index"><span>UFRJ</span><span>Composição</span><span>Música &amp; Matemática</span><span>Pesquisa e orientação</span></div>
+</section>
 
-Liduino Pitombeira (Brasil, 1962) é professor de composição da Escola de Música da Universidade Federal do Rio de Janeiro (UFRJ). Suas obras têm sido executadas pelo Quinteto de Sopros da Filarmônica de Berlim, Louisiana Sinfonietta, Red Stick Saxophone Quartet, New York University New Music Trio, Orquestra Sinfônica do Espírito Santo, Poznan Philharmonic Orchestra (Polônia), Duo Barrenechea, The Alexander-Soares Duo, Orquestra Sinfônica de Ribeirão Preto, Orquestra Sinfônica da Universidade de São Paulo, The Chicago Philharmonic e Orquestra Sinfônica do Estado de São Paulo (OSESP). Tem recebido diversas premiações em concursos de composição no Brasil e nos Estados Unidos, incluindo o 1º prêmio no Concurso Camargo Guarnieri de 1998 e o 1º prêmio no concurso “Sinfonia dos 500 Anos”. Recebeu também o prêmio 2003 MTNA-Shepherd Distinguished Composer of the Year Award por seu trio com piano “Brazilian Landscapes No.1”. Mais três obras de sua série Brazilian Landscapes (Nº 2, Nº 6 e Nº 9) foram premiadas nos Estados Unidos. Pitombeira recebeu seu PhD em composição pela Louisiana State University (EUA), onde estudou com Dinos Constantinides. Tem publicado diversos artigos científicos sobre composição e teoria e desenvolvido pesquisa como membro do grupo MusMat da UFRJ. Suas peças são publicadas pela Peters, Bella Musica, Criadores do Brasil (OSESP), Conners, Alry, RioArte e Irmãos Vitale. Gravações de suas obras estão disponíveis nos selos Magni, Summit, Centaur, Antes, Filarmonika, Blue Griffin e Bis. Pitombeira foi premiado em 2019 com a Medalha Villa-Lobos, concedida pela Academia Brasileira de Música, e homenageado pela vida e obra no VII Festival de Música Contemporânea Brasileira. É membro da Academia Brasileira de Música, cadeira Nº 28.
+<section class="ed-section ed-intro">
+  <div><p class="ed-kicker">Atuação acadêmica e artística</p><h2>Criação musical como campo de investigação.</h2></div>
+  <div><p>Liduino Pitombeira é compositor e professor de composição da Escola de Música da Universidade Federal do Rio de Janeiro. Sua atuação reúne composição, ensino, pesquisa e extensão.</p><p>Sua produção investiga sistemas composicionais, modelagem sistêmica, processos computacionais e estratégias de organização do material musical.</p><a class="ed-text-link" href="/trajetoria/">Conheça a trajetória completa ↗</a></div>
+</section>
 
-Ensino
-======
-Neste campo, encontram-se conteúdos referentes a disciplinas ministradas, alunos de iniciação científica, orientandos de mestrado e doutorado, e estágios de pós-doutorado.
-
-Pesquisa
-======
-Neste campo, encontram-se as publicações (artigos, livros, capítulos de livros, resumos) e obras musicais associadas.
-
-Extensão
-======
-Neste campo, encontram-se os projetos de extensão concluídos e ativos.
-
-Produção artística
-======
-Neste campo, encontram-se os projetos artísticos e a produção decorrente (obras musicais).
+<section class="ed-section ed-areas">
+  <p class="ed-kicker">Explore o site</p><div class="ed-area-grid">
+    <a href="/pesquisa/"><small>01</small><h2>Pesquisa</h2><p>Publicações, orientandos, perfis e grupo de estudos.</p><span>↗</span></a>
+    <a href="/ensino/"><small>02</small><h2>Ensino</h2><p>Disciplinas e materiais para graduação e pós-graduação.</p><span>↗</span></a>
+    <a href="/extensao/"><small>03</small><h2>Extensão</h2><p>Projetos, concursos, encontros e ações acadêmicas.</p><span>↗</span></a>
+    <a href="/projetos-artisticos/"><small>04</small><h2>Projetos Artísticos</h2><p>Obras, gravações, partituras e processos criativos.</p><span>↗</span></a>
+  </div>
+</section>

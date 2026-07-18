@@ -1,45 +1,12 @@
 ---
-layout: archive
+layout: default
 title: "Pesquisa"
 permalink: /pesquisa/
-author_profile: true
+author_profile: false
 ---
-
-<div class="wordwrap">
-  Meus artigos solo ou em parceria podem ser encontrados no
-  {% if site.author.uri %}<a href="{{site.author.uri}}">meu site pessoal</a>{% endif %}{% if site.author.uri and site.author.googlescholar %}, {% endif %}
-  {% if site.author.googlescholar %}<a href="{{site.author.googlescholar}}">Google Scholar</a>{% endif %}{% if site.author.academia and (site.author.uri or site.author.googlescholar) %}, {% endif %}
-  {% if site.author.academia %}<a href="{{site.author.academia}}">Academia.edu</a>{% endif %}.
-</div>
-
-<!-- Linha separadora + versão em inglês -->
-<hr style="margin: 1em 0; border: 0; border-top: 1px solid #e0e0e0;"> <!-- Linha cinza clara -->
-<div class="wordwrap">
-  <small><em>My papers can be found on
-  {% if site.author.uri %}<a href="{{site.author.uri}}">my personal website</a>{% endif %}{% if site.author.uri and site.author.googlescholar %}, {% endif %}
-  {% if site.author.googlescholar %}<a href="{{site.author.googlescholar}}">Google Scholar</a>{% endif %}{% if site.author.academia and (site.author.uri or site.author.googlescholar) %}, {% endif %}
-  {% if site.author.academia %}<a href="{{site.author.academia}}">Academia.edu</a>{% endif %}.</em></small>
-</div>
-
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+<main class="ed-page"><header class="ed-page-head"><p class="ed-kicker">Música · Composição · Matemática</p><h1>Pesquisa</h1><p>Produção acadêmica, formação de pesquisadores e investigação coletiva em sistemas composicionais.</p></header>
+<section class="ed-hub-grid">
+  <a href="/publicacoes/"><small>Produção</small><h2>Publicações</h2><p>Artigos sobre planejamento composicional, sistemas, modelagem e análise.</p><span>Explorar ↗</span></a>
+  <a href="/orientandos/"><small>Formação</small><h2>Orientandos</h2><p>Pesquisadores atuais e egressos, organizados por nível de formação.</p><span>Conhecer ↗</span></a>
+  <a href="/grupo-estudos/"><small>Pesquisa coletiva</small><h2>Grupo de Estudos em Sistemas Composicionais</h2><p>Leitura, discussão e experimentação em composição, teoria e matemática.</p><span>Saiba mais ↗</span></a>
+</section></main>
