@@ -14,7 +14,7 @@ classes: editorial-home
     <div class="ed-actions"><a class="ed-button primary" href="/pesquisa/">Conheça as pesquisas <span>↗</span></a><a class="ed-button secondary" href="/publicacoes/">Ver publicações <span>↗</span></a></div>
   </div>
   <div class="ed-art" aria-hidden="true"><span class="orbit a"></span><span class="orbit b"></span><span class="orbit c"></span><span class="curve one"></span><span class="curve two"></span><i class="dot one"></i><i class="dot two"></i><i class="dot three"></i></div>
-  <div class="ed-index"><span>UFRJ</span><span>Composição</span><span>Música &amp; Matemática</span><span>Pesquisa e orientação</span></div>
+  <div class="ed-index"><a href="https://ppgm.musica.ufrj.br/" target="_blank" rel="noopener">UFRJ</a><a href="https://pitombeira.com/" target="_blank" rel="noopener">Composição</a><a href="https://musmat.org/" target="_blank" rel="noopener">Música &amp; Matemática</a><a href="/pesquisa/">Pesquisa e orientação</a></div>
 </section>
 
 <section class="ed-section ed-intro">
